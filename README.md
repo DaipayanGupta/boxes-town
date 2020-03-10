@@ -1,1 +1,1 @@
-# boxes-town
+# Box Class
